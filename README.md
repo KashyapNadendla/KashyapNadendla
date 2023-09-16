@@ -2,7 +2,9 @@
 
 I'm Kashyap, a Software Developer and an aspiring Data Scientist. Hiking is a passion of mine and I try to push myself to reach greater heights and see the biggest Mountains. I'm an avid nature lover who is fascinated by the world around. I also hope to one day become a Sports Analyst!
 
-<iframe src="https://giphy.com/embed/U847RILcoxIKjuSK4E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/europeanspaceagency-interview-space-science-x-rays-U847RILcoxIKjuSK4E">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/U847RILcoxIKjuSK4E" width="500"/>
+</div>
 
 - 🌱 I’m a graduate student at the University of Arizona studying Data Science
 - 🔭 I’m currently working on ML, Data Mining and Data Visualization projects

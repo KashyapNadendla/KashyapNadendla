@@ -1,4 +1,4 @@
-### Hola 👋
+### Hello 👋
 
 I'm Kashyap, a Software Developer and an aspiring Data Scientist. Hiking is a passion of mine and I try to push myself to reach greater heights and see the biggest Mountains. I'm an avid nature lover who is fascinated by the world around. I also hope to one day become a Sports Analyst!
 
